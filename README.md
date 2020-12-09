@@ -1,7 +1,7 @@
 ### Hi there!!
 My name is Thilina Prasad Jayathilaka. A graduate from Department of Computer Science & Engineering, University of Moratuwa.
 
-##### Technologies
+##### I'm skilled in,
 Java | JavScript | TypeScript | Python | Php | JSP | HTML | CSS
 
 React | Angular | Ionic | JQuery | ElecronJs | SpringBoot | Laravel
