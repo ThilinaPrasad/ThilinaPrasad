@@ -1,7 +1,8 @@
 ### Hi there!!
 My name is Thilina Prasad. 
 A graduate from Department of Computer Science & Engineering, University of Moratuwa.
-##### Skilled in
+
+##### Technologies
 Java | JavScript | TypeScript | Python | Php | JSP | HTML | CSS
 
 React | Angular | Ionic | JQuery | ElecronJs | SpringBoot | Laravel
