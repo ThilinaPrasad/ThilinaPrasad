@@ -1,5 +1,5 @@
 ### Hi there!!
-My name is Thilina Prasad Jayathilaka. A graduate from Department of Computer Science & Engineering, University of Moratuwa.
+I'm Thilina Prasad Jayathilaka. A graduate from Department of Computer Science & Engineering, University of Moratuwa.
 
 #### I'm skilled in,
 Java | JavaScript | TypeScript | Python | Php | JSP | HTML | CSS
