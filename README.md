@@ -17,3 +17,5 @@ MySql | Git | Svn | Docker
 <a href="mailto:thilinaprasad.15@cse.mrt.ac.lk" target="_blank">
   <img src="https://img.shields.io/badge/-thilinaprasad.15@cse.mrt.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
+
+[![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThilinaPrasad)](https://github.com/anuraghazra/github-readme-stats)
