@@ -1,4 +1,4 @@
-### Hi there!!
+### Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Thilina Prasad Jayathilaka. A graduate from Department of Computer Science & Engineering, University of Moratuwa.
 
 #### I'm skilled in,
