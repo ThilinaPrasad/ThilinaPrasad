@@ -4,7 +4,7 @@ I'm Thilina Prasad Jayathilaka. A graduate from Department of Computer Science &
 #### I'm skilled in,
 Java | JavaScript | TypeScript | Python | Php | JSP | HTML | CSS
 
-React | Angular | Ionic | JQuery | SpringBoot | Laravel | ElecronJs
+React | Angular | Ionic | JQuery | SpringBoot | Laravel
 
 MySql | Git | Svn | Docker
 
