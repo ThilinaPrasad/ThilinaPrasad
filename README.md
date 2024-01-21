@@ -11,9 +11,9 @@ MySql | Git | Svn | Docker
 [ MongoDB | Terraform | Ansible ]
 
 <a href="https://www.linkedin.com/in/thilinaprasad" target="_blank">
-  <img src="https://img.shields.io/badge/-Thilina%20Prasad%20Jyathilaka-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-Thilina%20Prasad%20Jayathilaka-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
-<a href="mailto:thilinaprasad.15@cse.mrt.ac.lk" target="_blank">
-  <img src="https://img.shields.io/badge/-thilinaprasad.15@cse.mrt.ac.lk-c14438?style=flat-square&logo=Gmail&logoColor=white">
+<a href="mailto:thilina.prashad25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-thilina.prashad25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
