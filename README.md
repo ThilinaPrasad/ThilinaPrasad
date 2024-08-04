@@ -1,14 +1,16 @@
 ### Hello !!!
-I'm Thilina Prasad Jayathilaka. A graduate from Department of Computer Science & Engineering, University of Moratuwa.
+I'm Thilina Prasad Jayathilaka. A well seasoned senior software engineer with extensive expertise in the full software development lifecycle, I am passionate about creating secure, cloud-friendly software solutions.
 
 #### I'm skilled in,
-Java | JavaScript | TypeScript | Python | Php | JSP | HTML | CSS
+JavaEE | Spring | JPA |  Php | JSP | Servets
 
-React | Angular | Ionic | JQuery | SpringBoot | Laravel
+React | Angular | Ionic | JQuery | JavaScript | TypeScript
 
-MySql | Git | Svn | Docker
+MySql | MariaDB
 
-[ MongoDB | Terraform | Ansible ]
+Jenkins | Groovy
+
+AWS SAA | Docker | Kubernetes | Terraform | Ansible
 
 <a href="https://www.linkedin.com/in/thilinaprasad" target="_blank">
   <img src="https://img.shields.io/badge/-Thilina%20Prasad%20Jayathilaka-blue?style=flat-square&logo=Linkedin&logoColor=white">
