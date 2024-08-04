@@ -16,6 +16,6 @@ AWS SAA | Docker | Kubernetes | Terraform | Ansible
   <img src="https://img.shields.io/badge/-Thilina%20Prasad%20Jayathilaka-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
-<a href="mailto:thilina.prashad25@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-thilina.prashad25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+<a href="mailto:thilinajayathilaka.official@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-thilinajayathilaka.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
