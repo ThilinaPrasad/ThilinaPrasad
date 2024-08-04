@@ -4,7 +4,7 @@ I'm Thilina Prasad Jayathilaka. A well seasoned senior software engineer with ex
 #### I'm skilled in,
 JavaEE | Spring | JPA | JSP | Servets
 
-React | Angular | Ionic | JQuery | JavaScript | TypeScript
+React | Angular | Ionic | JavaScript | TypeScript
 
 MySql | MariaDB
 
