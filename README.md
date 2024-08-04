@@ -13,7 +13,7 @@ Jenkins | Groovy
 AWS SAA | Docker | Kubernetes | Terraform | Ansible
 
 <a href="https://www.linkedin.com/in/thilinaprasad" target="_blank">
-  <img src="https://img.shields.io/badge/-Thilina%20Prasad%20Jayathilaka-blue?style=flat-square&logo=Linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/-Thilina%%20Jayathilaka-blue?style=flat-square&logo=Linkedin&logoColor=white">
 </a>
 
 <a href="mailto:thilinajayathilaka.official@gmail.com" target="_blank">
