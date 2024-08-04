@@ -1,7 +1,7 @@
 ### Hello !!!
 I'm Thilina Prasad Jayathilaka. A well seasoned senior software engineer with extensive expertise in the full software development lifecycle, I am passionate about creating secure, cloud-friendly software solutions.
 
-#### I'm skilled in,
+#### I'm experienced in,
 JavaEE | Spring | JPA | JSP | Servets
 
 React | Angular | Ionic | JavaScript | TypeScript
@@ -10,7 +10,10 @@ MySql | MariaDB
 
 Jenkins | Groovy
 
-AWS SAA | Docker | Kubernetes | Terraform | Ansible
+AWS | Docker | Kubernetes | Terraform | Ansible
+
+#### Certifications,
+- AWS Certified Solutions Architect
 
 <a href="https://www.linkedin.com/in/thilinaprasad" target="_blank">
   <img src="https://img.shields.io/badge/-Thilina%20Jayathilaka-blue?style=flat-square&logo=Linkedin&logoColor=white">
