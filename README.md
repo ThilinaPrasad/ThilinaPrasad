@@ -8,7 +8,7 @@ I'm a well-seasoned software engineer with extensive expertise in the full softw
 
 - MySQL | MongoDB
 
-- Jenkins | Groovy | AWS | Docker | Kubernetes | Terraform | Ansible
+- AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins | Groovy
 
 ## Certifications
 - AWS Certified Solutions Architect
