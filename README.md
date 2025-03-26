@@ -2,7 +2,7 @@
 I'm a well-seasoned software engineer with extensive expertise in the full software development lifecycle, I am passionate about creating secure, cloud-friendly software solutions.
 
 ## Skills
-- Java | Spring | JPA | JSP | Servets
+- Java | Spring | JPA | JSP | Servets | PHP | GraphQL
 
 - React | Angular | Ionic | JavaScript | TypeScript
 
