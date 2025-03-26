@@ -30,6 +30,9 @@ I'm a well-seasoned software engineer with extensive expertise in the full softw
 </a>
 
 <!-- Facebook -->
+<a href="https://www.facebook.com/thilinaprasadj/" target="_blank">
+  <img src="https://img.shields.io/badge/-Thilina%20Prasad-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+</a>
 
 <!-- Instagram -->
 <a href="https://www.instagram.com/_thilina.j_/" target="_blank">
