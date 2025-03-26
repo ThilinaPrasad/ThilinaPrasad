@@ -9,7 +9,7 @@ I'm a well-seasoned software engineer with extensive expertise in the full softw
 - AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins | Groovy
 
 ## Certifications
-- AWS Certified Solutions Architect
+- AWS Certified Solutions Architect Associate
 
 ##
 <a href="mailto:thilinajayathilaka.official@gmail.com" target="_blank">
