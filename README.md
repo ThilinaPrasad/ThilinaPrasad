@@ -1,4 +1,4 @@
-### Hello !!!
+### Hey 👋, I'm Thilina
 I'm Thilina Prasad Jayathilaka. A well seasoned senior software engineer with extensive expertise in the full software development lifecycle, I am passionate about creating secure, cloud-friendly software solutions.
 
 #### I'm experienced in,
