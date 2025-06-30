@@ -11,6 +11,9 @@ I'm a well-seasoned software engineer with extensive expertise in the full softw
 ## Certifications
 🎓 AWS Certified Solutions Architect Associate
 
+## Education
+🎓 Bsc (Hons), Computer Science & Enineering, University of Moratuwa
+
 ##
 <a href="mailto:thilinajayathilaka.official@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-thilinajayathilaka.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
