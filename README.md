@@ -9,7 +9,7 @@ I'm a well-seasoned software engineer with extensive expertise in the full softw
 - AWS | Docker | Kubernetes | Terraform | Ansible | Jenkins | Groovy
 
 ## Certifications
-🎓 AWS Certified Solutions Architect Associate
+🔸 AWS Certified Solutions Architect Associate
 
 ## Education
 🎓 Bsc (Hons), Computer Science & Enineering, University of Moratuwa
